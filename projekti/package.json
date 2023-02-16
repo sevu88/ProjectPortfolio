@@ -1,0 +1,22 @@
+{
+  "name": "projectx",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ssalonens@bitbucket.org/ssalonens/projectx.git"
+  },
+  "author": "Severi Salonen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://bitbucket.org/ssalonens/projectx/issues"
+  },
+  "homepage": "https://bitbucket.org/ssalonens/projectx#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
